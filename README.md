@@ -1,5 +1,5 @@
 # bolster_webscraper
-FInal fullstack task for bolster
+Final fullstack task for bolster
 
 ## Dependencies
 The following dependencies can be pip installed
