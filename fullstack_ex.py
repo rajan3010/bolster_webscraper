@@ -107,13 +107,13 @@ class Solution:
             self.source_html = page_source
             self.source_text = source_text
             browser.close()
-
+'''
 filename = "screenshot.png"
 basic_url = "https://google.com"
 url = "https://playwright.dev/"
 phase1 = Solution(basic_url)
 #1.a
-#phase1.take_screenshot(filename)
+phase1.take_screenshot(filename)
 #1.b
 phase1.extract_ip()
 #1.c
@@ -125,3 +125,4 @@ phase1.extract_certifications()
 #3.a
 phase1.extract_source()
 #phase1.debug()
+'''
